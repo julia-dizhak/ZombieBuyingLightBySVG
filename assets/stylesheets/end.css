@@ -68,7 +68,7 @@ header {
 /* cool animation with blod on hover */
 .brand:hover .blood {
   opacity: 1;
-  transform: scale(1.3);
+  transform: scale(1.3)∏;
 }
 
 /* Nav */
@@ -99,7 +99,7 @@ header {
 }
 
 .nav-item.is-active {
-  background: url('../images/bg-border.svg') no-repeat center center / cover;
+  background: url('../svg/bg-border.svg') no-repeat center center / cover;
   position: static;
 }
 
